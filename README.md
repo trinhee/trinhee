@@ -1,5 +1,5 @@
 # Hi there 👋, I'm Ethan Trinh
-## 🎓 I'm a student at Western University learning Development
+## 🎓 I'm a Student at Western University Learning Development
 
 - 📲 I'm currently learning React JS and diving into the world of Linux!
 - 🎯 2024 Goals: Dive deeper into artifical intelligence through project-based learning!
