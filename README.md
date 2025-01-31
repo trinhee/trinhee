@@ -1,8 +1,8 @@
 # Hi there 👋, I'm Ethan Trinh
 ## 🎓 I'm a Student at Western University Learning Development
 
-- 📲 I'm currently learning React JS and diving into the world of Linux!
-- 🎯 2024 Goals: Dive deeper into artifical intelligence through project-based learning!
+- 📲 I'm currently learning cloud computing!
+- 🎯 2025 Goals: Dive deeper into artifical intelligence through project-based learning!
 - ⚡ Check out some of my other [work][repos]!
 - 📫 Contact me on [Linkedin](https://www.linkedin.com/in/ethan-trinh-53484a2a6/) or email me at ethan.trinh4@gmail.com
 
